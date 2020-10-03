@@ -1,3 +1,32 @@
+superadmin login - 
+
+id :  superadmin@mail.com
+
+pass : test@superadmin123
+
+
+agency admin: -
+
+id :  admin@mail.com
+
+pass : test@admin12345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React RBAC tutorial
 
 Full tutorial originally appeared and is available on Auth0's blog: [How to Add Role-Based Access Control (RBAC) to React Apps](https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/)
