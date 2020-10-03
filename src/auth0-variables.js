@@ -1,6 +1,6 @@
 export const AUTH_CONFIG = {
-  domain: "blog-samples.auth0.com",
+  domain: "dev-ku4k7-73.us.auth0.com",
   roleUrl: "https://rbac-tutorial-app/role",
-  clientId: "tuX40w6IyxsGkLJNWKSAdf5J2D6eXe3I",
+  clientId: "C5QFMNKDV3Ii5Zo5s0modE2Ge5NSe1sb",
   callbackUrl: "http://localhost:3000/callback"
 };
